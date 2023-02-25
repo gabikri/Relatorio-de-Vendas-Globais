@@ -1,4 +1,5 @@
 # Relatório de Vendas Globais
+
  Dashbord de vendas criado no Power BI com informações de Custo, Margem de lucro e KPI.
 
 O relatório procura responder as seguintes perguntas de negócio:
